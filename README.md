@@ -7,7 +7,8 @@ Hamid</a></h1>
 <p align="left"> <a href="https://twitter.com/hamidwaezi" target="blank"><img src="https://img.shields.io/twitter/follow/hamidwaezi?logo=twitter&style=for-the-badge" alt="hamidwaezi" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+  <img align="right" top="1000" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNlc2RobXc2cGIxM2hjd3RsaTk0ajE1b2s0bjI5eXEwbGphMTZqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
 - 🔭 I’m currently working part-time in <a href="https://www.trueinvivo.co.uk/" target="blank">TRUEinvivo Limited</a>
