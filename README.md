@@ -22,7 +22,6 @@
 
 - 📫 How to reach me **waezi.h@gmail.com**
 
-- 📄 Know about my experiences <a href="/src/resume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
@@ -37,8 +36,7 @@
 			<img src="https://img.icons8.com/nolan/45/1A6DFF/C822FF/instagram-new.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/hamidwaez">
 			<img src="https://img.icons8.com/nolan/45/twitterx.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="./src/resume.pdf">
-					<img src="https://img.icons8.com/nolan/45/1A6DFF/C822FF/contract-job.png" ></a>
+		
       </div>
 
 </p>
