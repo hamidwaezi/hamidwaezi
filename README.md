@@ -30,17 +30,17 @@ Hamid</a></h1>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/hamidwaezi/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://img.icons8.com/nolan/45/1A6DFF/C822FF/linkedin.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/hamidwaezi">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://img.icons8.com/nolan/45/1A6DFF/C822FF/github.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/4336094/hamid-waezi?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+				<img src="https://img.icons8.com/dusk/45/stackoverflow.png"></a>
 	    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/hamidwaezi">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+			<img src="https://img.icons8.com/nolan/45/1A6DFF/C822FF/instagram-new.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/hamidwaez">
 			<img src="https://img.icons8.com/nolan/45/twitterx.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="./src/resume.pdf">
+					<img src="https://img.icons8.com/nolan/45/1A6DFF/C822FF/contract-job.png" ></a>
       </div>
 
 </p>
