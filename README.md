@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm <a href="https://hamidwaezi.github.io" target="blank">Hamid</a></h1>
 <h3 align="center">A passionate Android Application developer, and Flutter lover </h3>
+<div align="center">
 
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-%2302569B.svg?style=flat&logo=Dart&logoColor=white)](https://dart.dev)
+[![Android](https://img.shields.io/badge/Android-%2302569B.svg?style=flat&logo=Android&logoColor=white)](https://android.com)
+[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)](http://mysql.com)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
+
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidwaezi&label=Profile%20views&color=0e75b6&style=flat" alt="hamid-github-views" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hamidwaezi" target="blank"><img src="https://img.shields.io/twitter/follow/hamidwaezi?logo=twitter&style=for-the-badge" alt="hamidwaezi" /></a> </p>
